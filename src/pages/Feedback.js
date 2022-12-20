@@ -23,10 +23,10 @@ class Feedback extends Component {
                 assertions >= Number('3')
                   ? { borderColor: 'green',
                     boxShadow: '0px 0px 9px #2FC18C',
-                  } : {
+                  }
+                  : {
                     borderColor: 'red',
-                    boxShadow: '0px 0px 9px #EA5D5D',
-              }
+                    boxShadow: '0px 0px 9px #EA5D5D' }
               }
             />
           </div>

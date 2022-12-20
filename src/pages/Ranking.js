@@ -61,7 +61,7 @@ class Ranking extends Component {
         <div className="ranking__list">
           <img src={ triviaImage } alt="Trivia Logo" className="trivia__image" />
           <h1 data-testid="ranking-title">
-            Rankings
+            Ranking
           </h1>
           <div className="ranking__positions">
             { rankingPositions(rankings) }
