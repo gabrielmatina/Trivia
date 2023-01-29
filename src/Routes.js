@@ -10,6 +10,7 @@ export default class Routes extends Component {
   render() {
     return (
       <Switch>
+        <Route path="/gametrivia" exact component={ Login } />
         <Route exact path="/" component={ Login } />
         <Route path="/game" component={ Game } />
         <Route path="/settings" component={ Settings } />
