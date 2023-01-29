@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/gametrivia/static/css/main.73b239ee.css",
-    "main.js": "/gametrivia/static/js/main.faa34333.js",
+    "main.js": "/gametrivia/static/js/main.ef773289.js",
     "static/media/background.png": "/gametrivia/static/media/background.d35a3b137392cbb31228.png",
     "static/media/error.png": "/gametrivia/static/media/error.14059ac8e22acf539278.png",
     "static/media/logo trivia.png": "/gametrivia/static/media/logo trivia.898e0d14c6d16b3ed09a.png",
     "static/media/check.png": "/gametrivia/static/media/check.2f6adbb9cc4869b63dcb.png",
     "index.html": "/gametrivia/index.html",
     "main.73b239ee.css.map": "/gametrivia/static/css/main.73b239ee.css.map",
-    "main.faa34333.js.map": "/gametrivia/static/js/main.faa34333.js.map"
+    "main.ef773289.js.map": "/gametrivia/static/js/main.ef773289.js.map"
   },
   "entrypoints": [
     "static/css/main.73b239ee.css",
-    "static/js/main.faa34333.js"
+    "static/js/main.ef773289.js"
   ]
 }
